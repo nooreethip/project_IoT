@@ -21,7 +21,7 @@ void loop() {
     digitalWrite(relay, HIGH);
   }
 
-  else {
+  else if(outputValue > 60){  //ตั้งค่า % ที่ต้องการจะปิดน้ำ
     digitalWrite(relay, LOW);
   }
   delay(1000);
