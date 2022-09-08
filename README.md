@@ -9,6 +9,10 @@
 # System Architecture
 ![304951847_813332303132159_3158298266429062388_n](https://user-images.githubusercontent.com/86452749/189136205-995a315b-79c3-485c-9300-7be2168cb963.jpg)
 ---
+# คุณสมบัติ
+* มีการประมวลผลแบบเรียวไทม์
+* มีการวัดค่าความชื้นในดินและสั่งปิดเปิดน้ำอัตโนมัติ
+---
 # ส่วนประกอบ
 * Arduino Uno R3
 * 5V Double Channel Relay Module 10A
